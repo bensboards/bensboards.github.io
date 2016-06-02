@@ -1551,7 +1551,7 @@
 /* Basic */
 
 	body {
-		background: #fff;
+		background-image: url(bgimage.jpg);
 	}
 
 	body, input, select, textarea {
@@ -2552,7 +2552,8 @@
 /* Wrapper */
 
 	#wrapper {
-		background: #fff;
+		background-image: url(bgimage.jpg);
+        background-size: cover ;
 		padding-right: 23em;
 	}
 
@@ -2563,7 +2564,7 @@
 	}
 
 		#main > section > .container {
-			padding: 6em 0 4em 0;
+			padding: 6em 0 0em 0;
 		}
 
 		#main > section:first-child {
