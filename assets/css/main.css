@@ -1604,8 +1604,11 @@
 		}
 
 	h2 {
-		font-size: 2em;
+		font-size: 3em;
 		line-height: 1.5em;
+		text-align: center;
+        	padding-bottom: .5em ;
+        
 	}
 
 	h3 {
